@@ -5,11 +5,11 @@ Puzzle Simulator
 
 **Project Description**:
 A program which can simulate a Rubik's Cube.
-* [Youtube Demonstration](https://youtu.be/D-pmMfCimU) //This is just a plcaeholder video.
+* [Youtube Demonstration](https://youtu.be/D-pmMfCimU) //This is just a placeholder video.
 
 **Project Goals**:
 * [ ] Learn how to write in C++
-* [ ] Learn how to create functions and classes and date structures work in C++
+* [ ] Learn how to create functions and classes and data structures work in C++
 * [ ] Write a class which simutates all the properties and functions of a Rubik's cube.
     * [ ] Write another class which simulates the pieces of the Rubic Cube and arange them in a list or array contained by the Rubik's cube.
 * [ ] If time allows, create a GUI for the Rubik's cube.
